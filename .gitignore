@@ -1,0 +1,8 @@
+.classpath*
+.mvn*
+.settings*
+.project
+HELP.md
+banco.log*
+mvnw
+mvnw.cmd
