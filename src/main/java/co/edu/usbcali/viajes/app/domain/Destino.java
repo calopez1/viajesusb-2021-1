@@ -41,7 +41,7 @@ public class Destino implements Serializable{
 	@NotNull
 	@NotEmpty
 	@Size(max = 5)
-	@Column(name = "codigo", unique = true, nullable = false, length = 5)
+	@Column(name = "codigo", nullable = false, length = 5)
 	private String codigo;
 	
 	@NotNull

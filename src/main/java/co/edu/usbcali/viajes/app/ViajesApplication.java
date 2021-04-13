@@ -52,7 +52,7 @@ public class ViajesApplication implements CommandLineRunner{
 //	   buscarTodosTiposDestinoOrdenados();
 //	   consultaTipoDestinoPorCodigo();
 //	   consultaTiposDestinoPorEstadoPorCodigo();
-	   guardarDestino();
+//	   guardarDestino();
 //	   eliminarDestino();
 //	   actualizarDestino();
 //	   consultarDestinoPorCodigoPorEstado();
